@@ -33,7 +33,10 @@ This project is an IoT-based Health Monitoring System using Raspberry Pi. It mon
 
 ## Circuit Diagram
 
-![Circuit Diagram](images/Circuit.jpeg)
+<img width="1600" height="1200" alt="IOT BASED HEALTH MONITORING SYSTEM" src="https://github.com/user-attachments/assets/6f8c1c7b-d464-46c4-a518-26b22e30393e" />
+
+<img width="1280" height="720" alt="Circuit" src="https://github.com/user-attachments/assets/4d5e40e6-2827-489d-95ba-b057038356d5" />
+
 
 ## Results and Analysis
 
