@@ -31,17 +31,11 @@ This project is an IoT-based Health Monitoring System using Raspberry Pi. It mon
 * Upload data to the cloud
 * Display health information
 
-## Block Diagram
-
-![Block Diagram](images/block_diagram.png)
-
 ## Circuit Diagram
 
-![Circuit Diagram](images/circuit1.png)
-
-## Output
-
-![Output](images/output.png)
+<p align="center">
+  <img src="images/circuit1.png" width="700">
+</p>
 
 ## Results and Analysis
 
